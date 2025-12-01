@@ -1,4 +1,4 @@
-# RealTime Notes App
+# Real-Time Collaborative Notes App
 
 A web-based **real-time collaborative notes application** built with React.js, Node.js, Express.js, MongoDB, and Socket.io. Users can create, edit, and collaborate on notes instantly, with live updates and active user tracking.
 
