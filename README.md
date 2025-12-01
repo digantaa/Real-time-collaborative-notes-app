@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Real-Time Collaborative Notes (ScriptGuru Test)
 
 This repository contains a full-stack MERN implementation of a collaborative notes application. Multiple users can join the same note, edit simultaneously, and watch live updates via WebSockets. The backend persists data in MongoDB (with basic version history) and the frontend is built with Vite + React + Tailwind.
@@ -145,4 +145,3 @@ The app will be accessible at http://localhost:5173.
 
 
 
->>>>>>>
