@@ -24,12 +24,6 @@ A web-based **real-time collaborative notes application** built with React.js, N
 
 ---
 
-## Demo
-
-*(Optional: Add screenshots or GIFs of your app here to showcase the interface.)*
-
----
-
 ## Installation
 
 ### Backend
@@ -38,15 +32,10 @@ A web-based **real-time collaborative notes application** built with React.js, N
 cd backend
 Install dependencies:
 npm install
-
-Create a .env file with the following variables:
-MONGO_URL=your_mongodb_connection_string
-CLIENT_URL=http://localhost:5173
-PORT=5000
-
 Start the backend server:
 npm run dev
 
+### Frontend
 
 Navigate to the frontend folder:
 cd frontend
